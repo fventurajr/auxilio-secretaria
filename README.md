@@ -30,11 +30,9 @@ Clases de negócios:
 ## Desenvolvimento
 
 | Linguagem     |       Java 8.0       |
-----------------|-----------------------
+
 | IDE           |        Eclipse       |
-----------------|-----------------------
 | Desktop       |        Swing         |
-----------------|-----------------------
 | Programadores | Fernando Ventura Jr. |
 
 
