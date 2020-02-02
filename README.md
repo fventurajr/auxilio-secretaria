@@ -29,10 +29,12 @@ Clases de negócios:
 
 ## Desenvolvimento
 
-| Linguagem     |       Java 8.0       |
+| campo         | valor                |
 |---------------|----------------------|
+| Linguagem     |       Java 8.0       |
 | IDE           |        Eclipse       |
-| Desktop       |        Swing         |
+| frontend      |      indefinido      |
+| banco de dados|      indefinido      |
 | Programador   | Fernando Ventura Jr. |
 
 
