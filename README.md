@@ -22,21 +22,21 @@ Clases de negócios:
 * dias de hospedagem
 
 ## Atividades
-[ ] Modelar as entidades             (model)
-[ ] Definir as regras de negócio     (control)
-[ ] Desenhar as entradas de dados    (view)
-[ ] Desenvolver validação de entrada ( view)
+- [ ] Modelar as entidades             (model)
+- [ ] Definir as regras de negócio     (control)
+- [ ] Desenhar as entradas de dados    (view)
+- [ ] Desenvolver validação de entrada ( view)
 
 ## Desenvolvimento
-----------------------------------------
+----------------|-----------------------
 | Linguagem     |       Java 8.0       |
-----------------------------------------
+----------------|-----------------------
 | IDE           |        Eclipse       |
-----------------------------------------
+----------------|-----------------------
 | Desktop       |        Swing         |
-----------------------------------------
+----------------|-----------------------
 | Programadores | Fernando Ventura Jr. |
-----------------------------------------
+----------------|-----------------------
 
 
 
