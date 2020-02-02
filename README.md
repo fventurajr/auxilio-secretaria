@@ -1,7 +1,7 @@
 # auxilio-secretaria
 ## Controlar as viagens de trabalho
 
-Clases de negócios:
+# Clases de negócios:
 ## Viajante
 * matrícula
 * nome
@@ -14,12 +14,15 @@ Clases de negócios:
 * cidade origem
 * aeroporto de partida [ GIG | SDU | outro ]
 * data / hora do voo
-* aeroporto de chegada [ outro | GIG | outro ]
+* aeroporto de chegada [ outro | GIG | SDU ]
 * cidade destino
 * status de viagem
+* secretária responsável
 ## Hospedagem
 * nome do hotel
 * dias de hospedagem
+
+# Planejamento
 
 ## Atividades
 - [ ] Modelar as entidades              ( model   )
@@ -32,9 +35,8 @@ Clases de negócios:
 
 | campo         | valor                |
 |---------------|----------------------|
-| Linguagem     |       Java 8.0       |
-| IDE           |        Eclipse       |
-| frontend      |      indefinido      |
+| front-end     |      indefinido      |
+| back-end      |       Java 8.0       |
 | banco de dados|      indefinido      |
 | Programador   | Fernando Ventura Jr. |
 
