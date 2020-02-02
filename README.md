@@ -1,7 +1,7 @@
 # auxilio-secretaria
-## Controlar as viagens de trabalho
+# Controlar as viagens de trabalho
 
-# Clases de negócios:
+# Classes de negócios:
 ## Viajante
 * matrícula
 * nome
@@ -30,6 +30,8 @@
 - [ ] Desenhar as entradas de dados     ( view    )
 - [ ] Desenvolver validação de entrada  ( view    )
 - [ ] Escolha do modelo de persistência ( entity  )
+
+# Background
 
 ## Desenvolvimento
 
