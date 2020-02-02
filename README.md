@@ -28,7 +28,7 @@ Clases de negócios:
 - [ ] Desenvolver validação de entrada ( view)
 
 ## Desenvolvimento
-----------------|-----------------------
+
 | Linguagem     |       Java 8.0       |
 ----------------|-----------------------
 | IDE           |        Eclipse       |
@@ -36,7 +36,7 @@ Clases de negócios:
 | Desktop       |        Swing         |
 ----------------|-----------------------
 | Programadores | Fernando Ventura Jr. |
-----------------|-----------------------
+
 
 
 
