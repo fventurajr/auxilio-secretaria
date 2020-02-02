@@ -11,8 +11,9 @@ Clases de negócios:
 * tipo [ ida | volta ]
 * cia aérea [ Azul | Gol | Latam | outra ]
 * número do vôo
+* cidade origem
 * aeroporto de partida [ GIG | SDU | outro ]
-* data / hora de partida
+* data / hora do voo
 * aeroporto de chegada [ outro | GIG | outro ]
 * cidade destino
 * status de viagem
