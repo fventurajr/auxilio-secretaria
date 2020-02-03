@@ -3,7 +3,6 @@
 
 # Classes de negócios:
 ## Viajante
-* matrícula
 * nome
 * empresa
 * centro de custo
@@ -40,7 +39,8 @@
 | front-end     |      indefinido      |
 | back-end      |       Java 8.0       |
 | banco de dados|      indefinido      |
-| Programador   | Fernando Ventura Jr. |
+| Programadores | Fernando Ventura Jr. |
+|               | Aline Afonso Silva   |
 
 
 
