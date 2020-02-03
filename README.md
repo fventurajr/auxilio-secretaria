@@ -42,6 +42,7 @@
 | Programadores | Fernando Ventura Jr. |
 |               | Aline Afonso Silva   |
 
+Diagrama de classes:
 ![]https://www.draw.io/#G17XyxVXx1-WDD54NWSkH3JS_-IfrYE4sI
 
 
