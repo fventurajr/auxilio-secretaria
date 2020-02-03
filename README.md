@@ -34,14 +34,14 @@
 
 ## Desenvolvimento
 
-| campo         | valor                |
-|---------------|----------------------|
-| front-end     |      indefinido      |
-| back-end      |       Java 8.0       |
-| banco de dados|      indefinido      |
-| cliente       | Grace Souza          |
-| Programadores | Fernando Ventura Jr. |
-|               | Aline Afonso Silva   |
+| campo           | valor                |
+|-----------------|----------------------|
+| front-end       | indefinido           |
+| back-end        | Java 8.0             |
+| banco de dados  | indefinido           |
+| cliente         | Grace Souza          |
+| desenvolvedores | Fernando Ventura Jr. |
+|                 | Aline Afonso Silva   |
 
 Diagrama de classes:
 ![]https://www.draw.io/#G17XyxVXx1-WDD54NWSkH3JS_-IfrYE4sI
