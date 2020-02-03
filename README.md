@@ -39,6 +39,7 @@
 | front-end     |      indefinido      |
 | back-end      |       Java 8.0       |
 | banco de dados|      indefinido      |
+| cliente       | Grace Souza          |
 | Programadores | Fernando Ventura Jr. |
 |               | Aline Afonso Silva   |
 
