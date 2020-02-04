@@ -5,6 +5,10 @@
 ## Viajante
 * nome
 * empresa
+## Órgão
+* empresa
+* sigla
+* nome
 * centro de custo
 ## Viagem
 * tipo [ ida | volta ]
@@ -17,9 +21,14 @@
 * cidade destino
 * status de viagem
 * secretária responsável
-## Hospedagem
 * nome do hotel
 * dias de hospedagem
+
+# Métodos
+* Cadastrar Viajante
+* Cadastrar Órgão
+* Cadastrar Viagem
+* Atualizar Status de Viagem
 
 # Planejamento
 
