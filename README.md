@@ -36,6 +36,7 @@
 
 | campo           | valor                |
 |-----------------|----------------------|
+| abordagem       | orientação a objeto  |
 | front-end       | indefinido           |
 | back-end        | Java 8.0             |
 | banco de dados  | indefinido           |
