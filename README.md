@@ -1,4 +1,4 @@
-# auxilio-secretaria
+# AuxilioSecretaria
 # Controlar as viagens de trabalho
 
 # Classes de negócios:
